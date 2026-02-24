@@ -1,3 +1,4 @@
+# SMR_MME
 .md
 
 .pdf
@@ -34,26 +35,21 @@ Ya esta comprobado que el switch rojo es el más silencioso, pero quizás no te 
 (TS) Declaración de tesis: Ideas principales sobre el tema + opinión + alcance
 (PS) Vista previa de la oración: resume las oraciones temáticas de cada párrafo del cuerpo
 
-Párrafo principal:
-
+# Párrafo principal:
 Usa palabras de transición
 
-COMPARAR similitudes (de la misma manera, similitud, me gusta, ninguna)
+**COMPARAR** similitudes (de la misma manera, similitud, me gusta, ninguna)
 
-Para CONTRASTE diferencias (Por otro lado, En contraste, A diferencia, Mientras)
+Para **CONTRASTE** diferencias (Por otro lado, En contraste, A diferencia, Mientras)
 
-Estructura: (A) Estilo de bloque
-
+**Estructura:** (A) Estilo de bloque
 (B) Estilo alterno
 
-Conclusión
-
+# Conclusión
 Resumir las ideas principales + Predicción o pensamiento final
 
 Borrador (introducción con un gancho + información de fondo + una conclusión que resuma los puntos principales + hacer una predicción o pensamiento final + un título)
 
-Revisión y edición
-
-Estructura: conecta los párrafos a la introducción
-
-Lenguaje: utilizar lenguaje académico, comparar adjetivos y adverbios y comparar estructuras.
+# Revisión y edición
+**Estructura:** conecta los párrafos a la introducción
+**Lenguaje:** utilizar lenguaje académico, comparar adjetivos y adverbios y comparar estructuras.
