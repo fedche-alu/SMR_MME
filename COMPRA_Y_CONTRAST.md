@@ -52,4 +52,5 @@ Borrador (introducción con un gancho + información de fondo + una conclusión 
 
 ## Revisión y edición
 **Estructura:** conecta los párrafos a la introducción
+
 **Lenguaje:** utilizar lenguaje académico, comparar adjetivos y adverbios y comparar estructuras.
