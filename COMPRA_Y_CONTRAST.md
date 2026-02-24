@@ -7,28 +7,22 @@ link al repositorio
 Presentación pptx en video
 
 # Comparación y contraste
-Planificación
+## Planificación
+**Tema:** Tipos de switches de teclado mecánico que hay.
+**Audiencia:** Lo que saben o quizás ya sepan sobre su tema => + -
 
-Tema: Tipos de switches de teclado mecánico que hay.
+## Antecedentes.
+**Propósito:** Señalar similitudes (comparar) y diferencias importantes (contrastar) para hacer pensar que switch va mejor depende de su situación.
+**Lluvia de ideas:** uso de un diagrama de Venn
 
-Audiencia: Lo que saben o quizás ya sepan sobre su tema => + -
-Antecedentes.
-
-Propósito: Señalar similitudes (comparar) y diferencias importantes (contrastar) para hacer pensar que switch va mejor depende de su situación.
-
-Lluvia de ideas: uso de un diagrama de Venn
-Esquema:
-
+## Esquema:
 Introducción (Hook + TS + alcance)
-
 Cuerpo (idea principal_n + soporte_n) x 1..n
-
 Conclusión
 
 Escritura
 
-Introducción
-
+## Introducción
 Gancho + Contexto + TE + Spoiler de la presentación
 
 ¿Estas cansado de jugar a las 3 de la mañana y que tu teclado haga mucho ruido?
@@ -38,7 +32,6 @@ Cuando es tarde, todos queremos paz, incluso la gente que se queda hasta tarde j
 Ya esta comprobado que el switch rojo es el más silencioso, pero quizás no te convence su respuesta, por ello, hoy voy a comparar los tipos de switches que hay con sus cualidades para que encontréis cual es vuestro switch.
 
 (TS) Declaración de tesis: Ideas principales sobre el tema + opinión + alcance
-
 (PS) Vista previa de la oración: resume las oraciones temáticas de cada párrafo del cuerpo
 
 Párrafo principal:
