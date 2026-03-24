@@ -71,3 +71,8 @@ Es probable que veamos a Intel adoptar cada vez más diseños similares a los de
 * **¿Qué mejoraría en mi ensayo si tuviera más tiempo?** Añadiría tablas con resultados de pruebas reales (Benchmarks) de modelos específicos como el M3 Pro vs el i7-14700K.
 
 * **¿Qué estrategias de investigación me resultaron más útiles?** Comparar las fichas técnicas oficiales de Apple Newsroom y el portal Ark de Intel.
+
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    |
