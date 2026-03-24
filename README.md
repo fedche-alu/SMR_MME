@@ -30,11 +30,11 @@ Además, los sistemas Intel permiten configuraciones de hardware personalizadas,
 
 ### Fuentes Oficiales (Fabricantes)
 
-Intel Ark: [ark.intel.com] (https://www.intel.com/content/www/us/en/ark.html) (Para especificaciones técnicas, consumo de energía y arquitectura de los procesadores Intel Core).
+Intel Ark: https://www.intel.com/content/www/us/en/ark.html (Para especificaciones técnicas, consumo de energía y arquitectura de los procesadores Intel Core).
 
-Apple Newsroom: [apple.com/newsroom] (https://www.apple.com/newsroom/) (Para detalles sobre la arquitectura del Sistema en Chip (SoC) y la eficiencia de los chips M1, M2 y M3).
+Apple Newsroom: https://www.apple.com/newsroom/ (Para detalles sobre la arquitectura del Sistema en Chip (SoC) y la eficiencia de los chips M1, M2 y M3).
 
-ARM Developer: [developer.arm.com] (https://developer.arm.com/) (Para entender los fundamentos de la arquitectura RISC y cómo funciona el diseño de bajo consumo).
+ARM Developer: https://developer.arm.com/ (Para entender los fundamentos de la arquitectura RISC y cómo funciona el diseño de bajo consumo).
 
 ## 3. Conclusión
 
