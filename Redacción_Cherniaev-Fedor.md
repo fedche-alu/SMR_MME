@@ -55,7 +55,7 @@ Es probable que veamos a Intel adoptar cada vez más diseños similares a los de
 | Corrección gramatical y ortográfica | 4 | El texto está correctamente escrito, sin errores ortográficos o gramaticales.    |
 | Reflexión sobre el propio trabajo | 4 | Se incluye la sección de preguntas finales. |
 
-## 5. Preguntas de Reflexión Final
+## 5. Reflexión Final
 
 * **¿Qué aprendí sobre el tema de los procesadores?** Aprendí que la arquitectura ARM no es solo para celulares, sino que puede superar a las PC tradicionales en eficiencia.
 
