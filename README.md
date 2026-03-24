@@ -45,23 +45,14 @@ Es probable que veamos a Intel adoptar cada vez más diseños similares a los de
 ## 4. Autoevaluación
 
 | Criterio | Puntuación (1-4) | Justificación |
-
-| :--- | :---: | :--- |
-
+|----------|------------------|---------------|
 | Comprensión del tema | 3 | Comprendo el tema y explico las características de Intel y M chips, aunque es posible que se me escapen algunos detalles menores. |
-
 | Investigación y uso de fuentes | 4 | Uso datos actuales sobre chips M3 e Intel de 14ª gen. |
-
 | Organización del texto | 4 | La estructura sigue el orden lógico solicitado. |
-
 | Comparación y contraste | 4 | Presento similitudes y diferencias entre chips de Apple e Intel con claridad y equilibrio, apoyándome en datos concretos. |
-
 | Argumentación y análisis crítico | 4 | Mis argumentos son sólidos, basados en evidencia y con reflexión personal bien fundamentada. |
-
 | Uso del lenguaje académico | 3 | Utilizo lenguaje adecuado en la mayor parte del texto, con algunos errores menores. |
-
 | Corrección gramatical y ortográfica | 4 | El texto está correctamente escrito, sin errores ortográficos o gramaticales.    |
-
 | Reflexión sobre el propio trabajo | 4 | Se incluye la sección de preguntas finales. |
 
 ## 5. Preguntas de Reflexión Final
@@ -71,8 +62,3 @@ Es probable que veamos a Intel adoptar cada vez más diseños similares a los de
 * **¿Qué mejoraría en mi ensayo si tuviera más tiempo?** Añadiría tablas con resultados de pruebas reales (Benchmarks) de modelos específicos como el M3 Pro vs el i7-14700K.
 
 * **¿Qué estrategias de investigación me resultaron más útiles?** Comparar las fichas técnicas oficiales de Apple Newsroom y el portal Ark de Intel.
-
-| Columna 1 | Columna 2 | Columna 3 |
-|-----------|-----------|-----------|
-| Dato 1    | Dato 2    | Dato 3    |
-| Dato 4    | Dato 5    | Dato 6    |
